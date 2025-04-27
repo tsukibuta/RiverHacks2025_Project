@@ -1,7 +1,15 @@
 # RiverHacks2025_Project
 ------------
 
-What: Free Wi-Fi finder and Wi-Fi cybersecurity checks
+What: 
+
+CivicNet is a lightweight phone app that:
+
+  - Uses SerpAPI to help users find free Wi-Fi
+  
+  - Scans user's Wi-Fi connection
+  
+  - Alerts user if any unsafe Wi-Fi connection or malicious activity is detected 
 
 ------------
 
