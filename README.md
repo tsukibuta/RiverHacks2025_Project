@@ -21,7 +21,7 @@ To view the block code for this project's MIT App Inventor file with extension *
 
 -- "Welcome to App Inventor" pops up.  Click "Continue"
 
--- Using "Projects" pulldown menu near upper left-hand corner, select 
+-- Using "Projects" pulldown menu near upper left-hand corner, select "Import project (.aia) from my computer" ...
 
 
 
