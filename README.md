@@ -21,7 +21,7 @@ To view the block code for this project's MIT App Inventor file with extension *
 
 -- "Welcome to App Inventor" pops up.  Click "Continue"
 
--- Using "Projects" pulldown menu near upper left-hand corner, select "Import project (.aia) from my computer".  The project should load automatically.  
+-- Using "Projects" pulldown menu near upper left-hand corner, select "Import project (.aia) from my computer", choose file "Final_Project.aia" that you downloaded. If you have not already downloaded the file, then right click file in the repo and choose "Save link as..." to download it to your computer. The project should load automatically in the MIT API Inventor tab.
 
 -- Near top of screen in the middle will be a selector that says either "Screen1" (default) or "MapScreen".  These are the different app UI object definition "Designer" screens the user will see when the app is running on their phone.  Switch between these app screen using that selector.
 
