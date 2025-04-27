@@ -1,5 +1,11 @@
 # RiverHacks2025_Project
-Free Wi-Fi finder and Wi-Fi cybersecurity checks
+------------
+
+What: Free Wi-Fi finder and Wi-Fi cybersecurity checks
+
+------------
+
+How Created:
 
 This project was created using the MIT App Inventor, a graphical block-based programming language specifically designed for creating phone apps.
 
